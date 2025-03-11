@@ -1,0 +1,22 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1741700111
+<< xpolycontact >>
+rect -141 220 141 652
+rect -141 -652 141 -220
+<< xpolyres >>
+rect -141 -220 141 220
+<< viali >>
+rect -125 238 125 632
+rect -125 -633 125 -239
+<< metal1 >>
+rect -131 632 131 646
+rect -131 238 -125 632
+rect 125 238 131 632
+rect -131 225 131 238
+rect -131 -239 131 -225
+rect -131 -633 -125 -239
+rect 125 -633 131 -239
+rect -131 -646 131 -633
+<< end >>

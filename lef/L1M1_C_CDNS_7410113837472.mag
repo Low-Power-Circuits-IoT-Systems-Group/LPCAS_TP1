@@ -1,0 +1,14 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1741700111
+<< error_p >>
+rect -17 -9 17 25
+<< viali >>
+rect -17 -9 17 25
+<< metal1 >>
+rect -55 25 55 31
+rect -55 -9 -17 25
+rect 17 -9 55 25
+rect -55 -15 55 -9
+<< end >>
