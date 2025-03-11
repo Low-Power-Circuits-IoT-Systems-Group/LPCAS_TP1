@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This is a Higher order emperature compensated Voltage Reference with High PSRR designed by Low-Power Circuits & Systems Lab of IIT Gandhinagar under the supervision of Prof. Madhav Pathak.
+This is a Higher order Temperature Compensated Voltage Reference with a High PSRR designed by Low-Power Circuits & Systems Lab of IIT Gandhinagar under the supervision of Prof. Madhav Pathak.
 
 Lab Website: https://sites.google.com/iitgn.ac.in/madhav-pathak
 
