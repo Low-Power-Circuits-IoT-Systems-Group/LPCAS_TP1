@@ -3,7 +3,7 @@ project:
   title:        "LPCAS_TP1"      # Project title
   author:       "Madhav pathak"      # Your name
   discord:      "nithinpuru"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  " This Project has been done by LPCAS@IIT Gandhinagar Lab under the supervision of Prof. Madhav Pathak"      # One line description of what your project does
   language:     "Analog" # other examples include Verilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
