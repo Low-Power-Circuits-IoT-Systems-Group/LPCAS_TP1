@@ -58,6 +58,7 @@ pinout:
   # ua[1]: "VOUT"
   # ua[2]: "VDD_STRP"
   ua[0]: ""
+  ua[1]: ""
   ua[2]: ""
   ua[3]: "VDD2"
   ua[4]: "VOUT2"
