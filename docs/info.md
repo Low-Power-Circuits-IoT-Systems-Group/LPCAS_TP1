@@ -6,6 +6,14 @@ sections.
 You can also include images in this folder and reference them in the markdown. Each image must be less than
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
+## author
+Nithin P, Kartikay Mani Tripathi, Prof. Madhav Pathak
+
+## title
+LPCAS_TP1
+
+## description
+This is a Higher order Temperature Compensated Voltage Reference with a High PSRR designed by Low-Power Circuits & Systems Lab of IIT Gandhinagar under the supervision of Prof. Madhav Pathak.
 
 ## How it works
 
@@ -30,3 +38,6 @@ Equipment Required:
 3. Power supply(1.8V and 3.3V)
 4. High Impedance Probes
 5. Oscilloscope
+
+## language   
+
