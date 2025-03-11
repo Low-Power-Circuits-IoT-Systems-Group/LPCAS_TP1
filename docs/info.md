@@ -15,16 +15,16 @@ LPCAS_TP1
 ## description
 This is a Higher order Temperature Compensated Voltage Reference with a High PSRR designed by Low-Power Circuits & Systems Lab of IIT Gandhinagar under the supervision of Prof. Madhav Pathak.
 
-## How it works
-
-This is a Higher order Temperature Compensated Voltage Reference with a High PSRR designed by Low-Power Circuits & Systems Lab of IIT Gandhinagar under the supervision of Prof. Madhav Pathak.
-
 Lab Website: https://sites.google.com/iitgn.ac.in/madhav-pathak
 
 People Involved:
 1. [Nithin P](https://www.linkedin.com/in/nithin-purushothama-70664727b/)
 2. [Kartikay Mani Tripathi](https://www.linkedin.com/in/kartikay-mani-tripathi-64a7b68b/)
 3. [Prof. Madhav Pathak](https://iitgn.ac.in/faculty/ee/fac-madhav)
+
+## How it works
+
+It works
 
 ## How to test
 
