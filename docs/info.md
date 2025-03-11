@@ -9,12 +9,24 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a Higher order emperature compensated Voltage Reference with High PSRR designed by Low-Power Circuits & Systems Lab of IIT Gandhinagar under the supervision of Prof. Madhav Pathak.
+
+Lab Website: https://sites.google.com/iitgn.ac.in/madhav-pathak
+
+People Involved:
+1. [Nithin P](https://www.linkedin.com/in/nithin-purushothama-70664727b/)
+2. [Kartikay Mani Tripathi](https://www.linkedin.com/in/kartikay-mani-tripathi-64a7b68b/)
+3. [Prof. Madhav Pathak](https://iitgn.ac.in/faculty/ee/fac-madhav)
 
 ## How to test
 
-Explain how to use your project
+Use equipment 5305 TECSource, 5A/12V to accurately control the temperature of TE-65-0.6-1.5 TEC Module. Connect Power supply(1.8V and 3.3V) and measure Vout using High Impedance Probes
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Equipment Required:
+1. 5305 TECSource, 5A/12V
+2. TE-65-0.6-1.5 TEC Module
+3. Power supply(1.8V and 3.3V)
+4. High Impedance Probes
+5. Oscilloscope
