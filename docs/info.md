@@ -14,7 +14,7 @@ People Involved:
 
 ## How it works
 
-It works
+It works by compensating for variation in temperature and supply voltage
 
 ## How to test
 
