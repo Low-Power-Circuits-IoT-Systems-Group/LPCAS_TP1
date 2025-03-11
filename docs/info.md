@@ -1,64 +1,33 @@
+## Author
+Nithin P, Kartikay Mani Tripathi, Prof. Madhav Pathak
+
+
+## Description
+This is a Higher order Temperature Compensated Voltage Reference with a High PSRR designed by Low-Power Circuits & Systems Lab of IIT Gandhinagar under the supervision of Prof. Madhav Pathak.
+
+Lab Website: https://sites.google.com/iitgn.ac.in/madhav-pathak
+
+People Involved:
+1. [Nithin P](https://www.linkedin.com/in/nithin-purushothama-70664727b/)
+2. [Kartikay Mani Tripathi](https://www.linkedin.com/in/kartikay-mani-tripathi-64a7b68b/)
+3. [Prof. Madhav Pathak](https://iitgn.ac.in/faculty/ee/fac-madhav)
+
 ## How it works
 
-This circuit is a Current-Mode Bandgap Reference which is fully 
-self-biased. It is powered from a nominal 3.3V supply. 
-
-It produces a 1V reference voltage and a 5.6uA output current. 
-
-In order to measure the very sensitive output voltage of the bandgap
-reference, a testbuffer is also included in the design. 
-The testbuffer is biased from a external current source (~5uA) through pin
-ua[2].  
-
-To characterize the testbuffer a loop-through mechanism from ua[1] to
-ua[0] can be enabled. The test voltage can be applied to ua[1] 
-and then measured back at ua[0].  
-
-The bandgap core can be enabled/disabled using the signal on uio_in[2].  
-
-To trim out process variations the core can be trimmed with a 8 bit 
-correction resistor controlled from the tiny-tapeout managment area
-using ui_in[7:0].  
-
+It works
 
 ## How to test
 
-Testing the testbuffer.
------------------------
-1. Power VAPWR to 3.3V
-2. Apply ~5uA bias current to the testbuffer on ua[2].
-   SMU or 620kOhm from 3.3V.
-3. Apply external test voltage to input on ua[1].
-4. Route external voltage to testbuffer input. uio_in[0]=1
-5. Route buffered voltage to output. uio_in[1]=1
-6. Measure voltage back on ua[0].
-
-
-Testing the bandgap voltage.
-----------------------------
-1. Power VAPWR to 3.3V
-2. Apply ~5uA bias current to the testbuffer on ua[2].
-   SMU or 620kOhm from 3.3V.
-3. Enable bandgap core. uio_in[0]=1
-4. Route bandgap voltage to testbuffer input. uio_in[0]=0
-5. Route buffered bandgap voltage to output pin. uio_in[1]=1
-6. Measure voltage on ua[0].
-
-
-Testing the reference current.
-------------------------------
-1. Power VAPWR to 3.3V
-2. Enable bandgap core. uio_in[0]=1
-3. Route reference current to output pin. uio_in[1]=1
-4. measure current from ua[0] to GND.
-
+Use equipment 5305 TECSource, 5A/12V to accurately control the temperature of TE-65-0.6-1.5 TEC Module. Connect Power supply(1.8V and 3.3V) and measure Vout using High Impedance Probes
 
 ## External hardware
 
-Multimeter to measure voltage and current.
+Equipment Required:
+1. 5305 TECSource, 5A/12V
+2. TE-65-0.6-1.5 TEC Module
+3. Power supply(1.8V and 3.3V)
+4. High Impedance Probes
+5. Oscilloscope
 
-Optional: 
-Osciloscope to measure startup waveform.
-Precise power supply for VAPWR
-SMU for precission bias current.
-Oven to measure temperature stabililty.
+## language   
+Python
