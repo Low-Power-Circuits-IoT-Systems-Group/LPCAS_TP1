@@ -57,7 +57,7 @@ pinout:
   ua[0]: "VDD"
   ua[1]: "VOUT"
   ua[2]: "VDD_STRP"
-  ua[3]: ""
+  ua[3]: ""  # Issue Exists here might have to change pins if VDD2 is connected to ua[4]
   ua[4]: "VDD2"
   ua[5]: "VOUT2"
 
