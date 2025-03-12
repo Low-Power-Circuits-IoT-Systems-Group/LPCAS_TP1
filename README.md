@@ -25,7 +25,7 @@ For specifications and instructions, see the [analog specs page](https://tinytap
 - [Learn how semiconductors work](https://tinytapeout.com/siliwiz/)
 - [Join the community](https://tinytapeout.com/discord)
 
-# Chip Image 
+# Layout
 
 ![Chip-Layout](https://github.com/user-attachments/assets/f679becb-b7cb-4ae7-8e0a-a0ac435389f4)
 
