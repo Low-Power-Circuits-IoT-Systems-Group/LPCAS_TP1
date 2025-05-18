@@ -27,7 +27,7 @@ For specifications and instructions, see the [analog specs page](https://tinytap
 
 # Layout
 
-![Chip-Layout](https://github.com/user-attachments/assets/f679becb-b7cb-4ae7-8e0a-a0ac435389f4)
+![Chip-Layout](https://github.com/user-attachments/assets/6e872e62-a19d-4a96-bf61-f3cc416b6a95)
 
 
 ## What next?
