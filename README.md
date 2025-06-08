@@ -14,6 +14,11 @@ To learn more and get started, visit https://tinytapeout.com.
 
 For specifications and instructions, see the [analog specs page](https://tinytapeout.com/specs/analog/).
 
+## Team 
+- (Nithin P)[https://www.linkedin.com/in/nithin-purushothama-70664727b/]
+- (Kartikay Mani Tripathi)[https://www.linkedin.com/in/kartikay-mani-tripathi-64a7b68b/]
+- (Prof. Madhav Pathak)[https://iitgn.ac.in/faculty/ee/fac-madhav]
+
 ## Enable GitHub actions to build the results page
 
 - [Enabling GitHub Pages](https://tinytapeout.com/faq/#my-github-action-is-failing-on-the-pages-part)
