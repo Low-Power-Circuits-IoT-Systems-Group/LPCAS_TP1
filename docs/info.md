@@ -1,5 +1,5 @@
 ## Author
-Nithin P, Kartikay Mani Tripathi, Prof. Madhav Pathak
+Nithin P, Kartikay Mani Tripathi, Prof. Madhav K Pathak
 
 
 ## Description
