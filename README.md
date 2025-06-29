@@ -1,5 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg)
 
+<!--
 # Tiny Tapeout Analog Project Template
 
 - [Read the documentation for project](docs/info.md)
@@ -9,6 +10,7 @@
 Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip.
 
 To learn more and get started, visit https://tinytapeout.com.
+-->
 
 ## Description
 This is a Higher order Temperature Compensated Voltage Reference with a High PSRR designed by Low-Power Circuits & Systems Lab of IIT Gandhinagar under the supervision of Prof. Madhav Pathak.
@@ -19,6 +21,8 @@ People Involved:
 1. [Nithin P](https://www.linkedin.com/in/nithin-purushothama-70664727b/)
 2. [Kartikay Mani Tripathi](https://www.linkedin.com/in/kartikay-mani-tripathi-64a7b68b/)
 3. [Prof. Madhav Pathak](https://iitgn.ac.in/faculty/ee/fac-madhav)
+
+<!--
 
 ## Analog projects
 
@@ -35,6 +39,7 @@ For specifications and instructions, see the [analog specs page](https://tinytap
 - [Digital design lessons](https://tinytapeout.com/digital_design/)
 - [Learn how semiconductors work](https://tinytapeout.com/siliwiz/)
 - [Join the community](https://tinytapeout.com/discord)
+-->
 
 # Layout
 
@@ -42,6 +47,7 @@ For specifications and instructions, see the [analog specs page](https://tinytap
 
 For 3D image look here: [3D Image](https://gds-viewer.tinytapeout.com/?model=https://low-power-circuits-iot-systems-group.github.io/LPCAS_TP1/tinytapeout.gds.gltf)
 
+<!--
 
 ## What next?
 
@@ -51,3 +57,4 @@ For 3D image look here: [3D Image](https://gds-viewer.tinytapeout.com/?model=htt
   - LinkedIn [#tinytapeout](https://www.linkedin.com/search/results/content/?keywords=%23tinytapeout) [@TinyTapeout](https://www.linkedin.com/company/100708654/)
   - Mastodon [#tinytapeout](https://chaos.social/tags/tinytapeout) [@matthewvenn](https://chaos.social/@matthewvenn)
   - X (formerly Twitter) [#tinytapeout](https://twitter.com/hashtag/tinytapeout) [@matthewvenn](https://twitter.com/matthewvenn)
+-->
