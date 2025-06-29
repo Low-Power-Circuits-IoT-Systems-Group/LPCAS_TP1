@@ -45,7 +45,7 @@ For specifications and instructions, see the [analog specs page](https://tinytap
 
 ![image](https://github.com/user-attachments/assets/88997179-0b19-4247-9a9a-c38ebc5afbdd)
 
-For 3D image look here: [3D Image](https://gds-viewer.tinytapeout.com/?model=https://low-power-circuits-iot-systems-group.github.io/LPCAS_TP1/tinytapeout.gds.gltf)
+For 3D image look here: [3D Image](https://gds-viewer.tinytapeout.com/?model=https://low-power-circuits-iot-systems-group.github.io/LPCAS_TP1/tinytapeout.gds&process=SKY130)
 
 <!--
 
