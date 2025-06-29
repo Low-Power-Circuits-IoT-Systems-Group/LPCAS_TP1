@@ -10,9 +10,20 @@ Tiny Tapeout is an educational project that aims to make it easier and cheaper t
 
 To learn more and get started, visit https://tinytapeout.com.
 
+## Description
+This is a Higher order Temperature Compensated Voltage Reference with a High PSRR designed by Low-Power Circuits & Systems Lab of IIT Gandhinagar under the supervision of Prof. Madhav Pathak.
+
+Lab Website: https://sites.google.com/iitgn.ac.in/madhav-pathak
+
+People Involved:
+1. [Nithin P](https://www.linkedin.com/in/nithin-purushothama-70664727b/)
+2. [Kartikay Mani Tripathi](https://www.linkedin.com/in/kartikay-mani-tripathi-64a7b68b/)
+3. [Prof. Madhav Pathak](https://iitgn.ac.in/faculty/ee/fac-madhav)
+
 ## Analog projects
 
 For specifications and instructions, see the [analog specs page](https://tinytapeout.com/specs/analog/).
+
 
 ## Enable GitHub actions to build the results page
 
