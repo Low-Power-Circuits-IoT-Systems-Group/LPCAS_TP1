@@ -46,6 +46,7 @@ For specifications and instructions, see the [analog specs page](https://tinytap
 - [Digital design lessons](https://tinytapeout.com/digital_design/)
 - [Learn how semiconductors work](https://tinytapeout.com/siliwiz/)
 - [Join the community](https://tinytapeout.com/discord)
+
 -->
 
 # Layout
