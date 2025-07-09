@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "LPCAS_TP1"      # Project title
+  title:        " Piecewise Compensated Sub-5 ppm/°C High PSRR Voltage Reference with higher order temperature compensation "      # Project title
   author:       "Nithin P, Kartikeya Tripathi, Madhav Pathak"      # Your name
   discord:      "nithinpuru_ams"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  " This Project has been done by LPCAS@IIT Gandhinagar Lab under the supervision of Prof. Madhav Pathak"      # One line description of what your project does
