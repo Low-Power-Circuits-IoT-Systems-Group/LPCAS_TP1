@@ -327,6 +327,7 @@ MACRO tt_um_LPCAS_TP1
     END
   END uo_out[7]
   PIN VDPWR
+    USE POWER ;
     ANTENNADIFFAREA 7.542800 ;
     PORT
       LAYER met4 ;
