@@ -21,7 +21,7 @@ People Involved:
 
 | Name | Affiliation | Email |
 |------|-------------|-------|
-| [**Nithin P**](https://www.linkedin.com/in/nithin-purushothama-70664727b/) | IIT Gandhinagar<br/>B.Tech, VTU | [nithinpurushothama@gmail.com](mailto:nithinpurushothama@gmail.com) |
+| [**Nithin P**](https://www.linkedin.com/in/nithin-purushothama-70664727b/) | IIT Gandhinagar | [nithinpurushothama@gmail.com](mailto:nithinpurushothama@gmail.com) |
 | [**Kartikay Mani Tripathi**](https://www.linkedin.com/in/kartikay-mani-tripathi-64a7b68b/) | IIT Gandhinagar | [km_tripathi@ece.iitr.ac.in](mailto:km_tripathi@ece.iitr.ac.in) |
 | [**Prof. Madhav Pathak**](https://iitgn.ac.in/faculty/ee/fac-madhav) | IIT Gandhinagar | [madhav.pathak@iitgn.ac.in](mailto:madhav.pathak@iitgn.ac.in) |
 
