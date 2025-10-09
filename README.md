@@ -17,7 +17,7 @@ This is a Sub-5ppm/°C Higher order Temperature Compensated Voltage Reference wi
 
 Lab Website: https://sites.google.com/iitgn.ac.in/madhav-pathak
 
-People Involved:
+### People Involved:
 
 | Name | Affiliation | Email |
 |------|-------------|-------|
