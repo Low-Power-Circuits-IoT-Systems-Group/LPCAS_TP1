@@ -345,6 +345,8 @@ MACRO tt_um_LPCAS_TP1
     END
   END VGND
   PIN VAPWR
+    DIRECTION INOUT ;
+    USE POWER ;
     PORT
       LAYER met4 ;
         RECT 8.000 5.000 9.200 220.760 ;
